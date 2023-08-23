@@ -1,0 +1,4 @@
+com\crud\projectcrud\CursoRepositoryTest.class
+com\crud\projectcrud\PeriodoRepositoryTest.class
+com\crud\projectcrud\ProjectcrudApplicationTests.class
+com\crud\projectcrud\UserRepositoryTests.class

@@ -1,0 +1,7 @@
+
+|
+java:S1450"aRemove the "applicationContext" field and declare it as a local variable in the relevant methods.(î‡²şÿÿÿÿ
+U
+java:S1874"?Remove this use of "WebMvcConfigurerAdapter"; it is deprecated.(£Õ­¼
+Q
+java:S1068"6Remove this unused "applicationContext" private field.(î‡²şÿÿÿÿ
